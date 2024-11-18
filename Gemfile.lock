@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    memory_profiler (1.1.0)
+    minitest (5.25.1)
+    rake (13.2.1)
+    rouge (4.5.1)
+    stringex (2.8.6)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  memory_profiler
+  minitest
+  rake
+  rouge
+  stringex
+
+BUNDLED WITH
+   2.4.19
